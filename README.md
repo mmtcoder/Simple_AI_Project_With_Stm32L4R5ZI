@@ -22,18 +22,18 @@ USED MATERIALS...
 
 Used PINS
 
-PIN_D0 ... PIN_D7 = Cam_D0 .... Cam_D7 (Input Mode)
-PC13 = Nucleo Blue Button (EXTI mode)
-I2C pins may be different from mine
-PF7 = Cam_PCLK (Input mode)
-PF8 = Cam_HREF (Input Model)
-PF9 = Cam_Vsyn_EXTI ( EXTI mode)
-PC2 = Camera_RESET(Output Mode)
-PC3 = Camera_PWDN (Output Mode)
-PA1 = TIM2_CH2 (PWM Pin)
-SPI  pins may be different from mine
-PC5 = LED_Activate( Output mode)
-PC6 = SPI_SD_NSS( Output Mode This pin is optional )
-PC8= LED_CS (Output Mode)
-PC9 = LED_DC (Output mode)
-PC10 = LED_RESET( Output Mode)
+* PIN_D0 ... PIN_D7 = Cam_D0 .... Cam_D7 (Input Mode)
+* PC13 = Nucleo Blue Button (EXTI mode)
+* I2C pins may be different from mine
+* PF7 = Cam_PCLK (Input mode)
+* PF8 = Cam_HREF (Input Model)
+* PF9 = Cam_Vsyn_EXTI ( EXTI mode)
+* PC2 = Camera_RESET(Output Mode)
+* PC3 = Camera_PWDN (Output Mode)
+* PA1 = TIM2_CH2 (PWM Pin)
+* SPI  pins may be different from mine
+* PC5 = LED_Activate( Output mode)
+* PC6 = SPI_SD_NSS( Output Mode This pin is optional )
+* PC8= LED_CS (Output Mode)
+* PC9 = LED_DC (Output mode)
+* PC10 = LED_RESET( Output Mode)
