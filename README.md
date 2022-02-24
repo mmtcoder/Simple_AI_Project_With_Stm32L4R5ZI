@@ -13,6 +13,8 @@ IF YOU HAVE DIFFERENT MCU FREQUENCY, YOU MUST SET CLOCK FREQUENCY 120 MHZ FOR MA
 
 Last thing that I didn't use sd card right now but I prepared required settings in seperate files called " sdCard.c  ..." so you can use Sd card.
 
+For Video Please Press the link : https://www.youtube.com/watch?v=Rc6IeFsBB9g
+
 USED MATERIALS...
 
 * Nucleo L4R5ZI( It has max 120 Mhz freq)
